@@ -1,0 +1,26 @@
+{
+  "name": "@khgame/tconv-router",
+  "version": "0.0.1",
+  "description": "event router for @khgame/tconv",
+  "main": "router.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khgame/tconv.git"
+  },
+  "keywords": [
+    "tconv",
+    "router"
+  ],
+  "author": "kinghand (kinghand@foxmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khgame/tconv/issues"
+  },
+  "homepage": "https://github.com/khgame/tconv#readme",
+  "dependencies": {
+    "@khgame/tconv": "^0.0.1-beta.1"
+  }
+}
