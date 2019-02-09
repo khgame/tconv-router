@@ -1,4 +1,4 @@
-const compose = require('@khgame/tconv/tconv/src/compose')
+const compose = require('@khgame/tconv/src/compose')
 
 class eventRouter {
   constructor () {
